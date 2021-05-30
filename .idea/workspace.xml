@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="eShop:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24ff1c9f-4246-4f69-9c5d-afdd3a52e28b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1kdg3FsVCTh3JrWCa1bc2BUR7pT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.myshop.test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.myshop.service" />
+      <recent name="com.myshop.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java Python Cpp\JavaInstall\JavaWeb相关\eShop\web\WEB-INF\lib" />
+      <recent name="E:\Java Python Cpp\JavaInstall\JavaWeb相关\eShop" />
+      <recent name="E:\Java Python Cpp\JavaInstall\JavaWeb相关\eShop\src\com\myshop\test" />
+      <recent name="E:\Java Python Cpp\JavaInstall\JavaWeb相关\eShop\src" />
+      <recent name="E:\Java Python Cpp\JavaInstall\JavaWeb相关\eShop\web\static\script" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.myshop.filter" />
+      <recent name="com.myshop.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java Python Cpp\JavaInstall\JavaWeb相关\eShop\web\pages\user" />
+      <recent name="E:\Java Python Cpp\JavaInstall\JavaWeb相关\eShop\web" />
+      <recent name="E:\Java Python Cpp\JavaInstall\JavaWeb相关\eShop\web\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.eShop">
+    <configuration name="GoodDaoTest.queryForBestSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myshop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myshop.test" />
+      <option name="MAIN_CLASS_NAME" value="com.myshop.test.GoodDaoTest" />
+      <option name="METHOD_NAME" value="queryForBestSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodDaoTest.queryForBestSalesByType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myshop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myshop.test" />
+      <option name="MAIN_CLASS_NAME" value="com.myshop.test.GoodDaoTest" />
+      <option name="METHOD_NAME" value="queryForBestSalesByType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodServiceTest.queryForBestSales" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myshop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myshop.test" />
+      <option name="MAIN_CLASS_NAME" value="com.myshop.test.GoodServiceTest" />
+      <option name="METHOD_NAME" value="queryForBestSales" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodServiceTest.queryForBestSalesByType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myshop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myshop.test" />
+      <option name="MAIN_CLASS_NAME" value="com.myshop.test.GoodServiceTest" />
+      <option name="METHOD_NAME" value="queryForBestSalesByType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HistoryServiceImplTest.countByTypeAndId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myshop.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.myshop.test" />
+      <option name="MAIN_CLASS_NAME" value="com.myshop.test.HistoryServiceImplTest" />
+      <option name="METHOD_NAME" value="countByTypeAndId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eShop" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.59" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="eShop:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/eShop" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_eShop" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63172" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="eShop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HistoryServiceImplTest.countByTypeAndId" />
+      <item itemvalue="JUnit.GoodDaoTest.queryForBestSalesByType" />
+      <item itemvalue="JUnit.GoodDaoTest.queryForBestSales" />
+      <item itemvalue="JUnit.GoodServiceTest.queryForBestSalesByType" />
+      <item itemvalue="JUnit.GoodServiceTest.queryForBestSales" />
+      <item itemvalue="Tomcat Server.eShop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GoodServiceTest.queryForBestSales" />
+        <item itemvalue="JUnit.GoodServiceTest.queryForBestSalesByType" />
+        <item itemvalue="JUnit.GoodDaoTest.queryForBestSales" />
+        <item itemvalue="JUnit.GoodDaoTest.queryForBestSalesByType" />
+        <item itemvalue="JUnit.HistoryServiceImplTest.countByTypeAndId" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ff1c9f-4246-4f69-9c5d-afdd3a52e28b" name="Default Changelist" comment="" />
+      <created>1606035682237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606035682237</updated>
+      <workItem from="1606035683264" duration="18354000" />
+      <workItem from="1606125108034" duration="1251000" />
+      <workItem from="1606136347036" duration="12979000" />
+      <workItem from="1606185394957" duration="8527000" />
+      <workItem from="1606204295538" duration="689000" />
+      <workItem from="1606205623946" duration="19964000" />
+      <workItem from="1606271418438" duration="4728000" />
+      <workItem from="1606278957400" duration="2651000" />
+      <workItem from="1606283782002" duration="20635000" />
+      <workItem from="1606359295790" duration="2690000" />
+      <workItem from="1606441934249" duration="2511000" />
+      <workItem from="1606448781815" duration="2016000" />
+      <workItem from="1606467121914" duration="3456000" />
+      <workItem from="1606474083277" duration="6207000" />
+      <workItem from="1606567379670" duration="381000" />
+      <workItem from="1606571461333" duration="36000" />
+      <workItem from="1606722619279" duration="84000" />
+      <workItem from="1606913555182" duration="32000" />
+      <workItem from="1606914083128" duration="332000" />
+      <workItem from="1621150523222" duration="63643000" />
+      <workItem from="1621510701584" duration="884000" />
+      <workItem from="1621515538921" duration="1411000" />
+      <workItem from="1621842039776" duration="130000" />
+      <workItem from="1621922958779" duration="483000" />
+      <workItem from="1622288106849" duration="5364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621510755495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621510755495" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1621389272241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1621389272241" />
+    <state x="386" y="19" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1621242754406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="19" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1621242754406" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621216551971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1621216551971" />
+    <state width="1271" height="243" key="GridCell.Tab.0.bottom" timestamp="1621517886849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621517886849" />
+    <state width="1271" height="243" key="GridCell.Tab.0.center" timestamp="1621517886849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621517886849" />
+    <state width="1271" height="243" key="GridCell.Tab.0.left" timestamp="1621517886848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621517886848" />
+    <state width="1271" height="243" key="GridCell.Tab.0.right" timestamp="1621517886849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621517886849" />
+    <state width="1271" height="243" key="GridCell.Tab.1.bottom" timestamp="1621517886851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621517886851" />
+    <state width="1271" height="243" key="GridCell.Tab.1.center" timestamp="1621517886850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1621517886850" />
+    <state width="1271" height="243" key="GridCell.Tab.1.left" timestamp="1621517886849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1621517886849" />
+    <state width="1271" height="243" key="GridCell.Tab.1.right" timestamp="1621517886851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1621517886851" />
+    <state width="1271" height="243" key="GridCell.Tab.2.bottom" timestamp="1621517886852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621517886852" />
+    <state width="1271" height="243" key="GridCell.Tab.2.center" timestamp="1621517886851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1621517886851" />
+    <state width="1271" height="243" key="GridCell.Tab.2.left" timestamp="1621517886851">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1621517886851" />
+    <state width="1271" height="243" key="GridCell.Tab.2.right" timestamp="1621517886852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1271" height="243" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1621517886852" />
+    <state x="309" y="0" key="SettingsEditor" timestamp="1621512032568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="309" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621512032568" />
+    <state x="540" y="206" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1621323452891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="206" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1621323452891" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-1" timestamp="1621215834974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1621215834974" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-2" timestamp="1621215834974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1621215834974" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-3" timestamp="1621217635780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1621217635780" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-4" timestamp="1621217635780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-4/0.0.1536.824@0.0.1536.824" timestamp="1621217635780" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-5" timestamp="1621218602520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-5/0.0.1536.824@0.0.1536.824" timestamp="1621218602520" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-6" timestamp="1621219414069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-6/0.0.1536.824@0.0.1536.824" timestamp="1621219414069" />
+    <state x="271" y="116" width="600" height="594" key="find.popup" timestamp="1621325053103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="271" y="116" width="600" height="594" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1621325053103" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1621308334037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1621308334037" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1621326364279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1621326364279" />
+  </component>
+</project>
